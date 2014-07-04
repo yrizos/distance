@@ -1,0 +1,20 @@
+{
+    "name": "yrizos/distance",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yannis Rizos",
+            "email": "yrizos@gmail.com",
+            "homepage": "https://github.com/yrizos/distance"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "DistanceMatrix": "library/"
+        }
+    }
+}
