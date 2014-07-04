@@ -22,8 +22,8 @@ class Api
         [
             "key"      => null,
             "language" => "en",
-            "mode"     => self::MODE_DRIVING,
-            "units"    => self::UNITS_METRIC,
+            "mode"  => null,
+            "units" => null,
         ];
 
     public function __construct($apiKey = null)
