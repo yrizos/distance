@@ -31,7 +31,7 @@ $api->addOrigin('Αριστοτέλους 35, Εύοσμος, Θεσσαλονί
 ```
 _______________
 Set the Units :
-* metric
+* metric (default)
 * imperial
 
 ```php
