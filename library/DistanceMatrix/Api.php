@@ -4,7 +4,7 @@ namespace DistanceMatrix;
 
 class Api
 {
-    const ENDPOINT       = "http://maps.googleapis.com/maps/api/distancematrix";
+    const ENDPOINT       = "https://maps.googleapis.com/maps/api/distancematrix";
     const MODE_DRIVING   = "driving";
     const MODE_WALKING   = "walking";
     const MODE_BICYCLING = "bicycling";
