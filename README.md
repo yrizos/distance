@@ -35,7 +35,7 @@ Set the Units :
 * imperial
 
 ```php
-$api->setUnits('metric');
+$api->setUnits('imperial');
 ```
 _______________
 Set the Output :
@@ -43,7 +43,7 @@ Set the Output :
 * xml
 
 ```php
-$api->setOutput('json');
+$api->setOutput('xml');
 ```
 _______________
 Set the Mode :
@@ -52,7 +52,7 @@ Set the Mode :
 * driving (default)
 
 ```php
-$api->setMode('driving');
+$api->setMode('walking');
 ```
 _______________
 Set the Language :
